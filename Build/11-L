@@ -1,0 +1,38 @@
+Illuminated Biology "L" letter
+Pieter Kooijman
+In this project, I will describe the fabrication of an individually addressable LED illuminated L sign, as part of the "Lili's Proto Lab"-sign challenge. The theme of this letter is "Biology inspired". 
+
+Tools:
+-Adobe Photoshop+Illustrator
+-Laser cutter
+-Saw table
+-Mill
+-Hot glue gun
+-5m individually addressable LED strip
+
+Step 1: Saw an branch to length for the standing leg.
+Step 2: Slice the branch using a table or bandsaw into a ~2cm plank.
+
+Step 3: Download the Illustrator design of our "L". Take a photo of the plank and import this into Photoshop. Filter out the plank outlines and export those into the Illustrator design file. Correct the size of the outlines to the actual plank. Replace the outlines of our plank with your own outlines, and correct the offset "PMMA" layers to match. Note that the inside cutting lines also need to be adjusted to your plank.
+Step 4: Cut the "multiplex layer" out of 4 mm multiplex with a lasercutter. Similarly, cut all of the PMMA layers out of 5 mm PMMA, and engrave the leaf artery with the laser cutter. 
+
+Step 5: Trace the inside cutting lines of the standing leg onto the wooden plank. Mill an ~8mm deep pocket out of the wooden plank, following the cutting lines.
+Step 6: Glue the PMMA layers to each other with 2-component epoxy glue, sand all the outside edges to be aligned and opaque. Glue the multiplex leaf to the PMMA layers with epoxy glue. File/cut the plank to exactly align/overlap with the multiplex leaf stem. Glue the plank to the PMMA layer.
+
+Step 7: Glue the 5m LED strip against the inside walls of the PMMA cut out.
+Step 8 (optional): Treat the wood with oil or varnish to protect the wood from fading.  
+
+Hook up your LED electronics and enjoy the light show!
+Additional information
+	• Short Name: #IlluminatedBiologyLletter
+	• Created on: March 24, 2023
+	• Last update: March 31, 2023
+Keywords
+Led
+Laser cutter
+Laser engraving
+Cnc router
+Soldering electronic
++ 1
+
+From <https://app.jogl.io/project/1743/IlluminatedBiologyLletter> 
