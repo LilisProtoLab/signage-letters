@@ -16,6 +16,8 @@ L - Inspired by Nature, Pieter created this amalgamation from a tree, laser-cut 
 ## Build instructions
 - The font used (though deviations are made) is Open Sans Extrabold. 
 - All letters receive a male DC barrel plug with 650 mA of power at 12V.
+- The tallest letters are 62 cm tall, normal lower case letters are ~46 cm tall.
+- Check "renovation/design/LPL jobshop aanzicht.ai" for exact sizing.
 
 ## Team
 + Contributors so far:
