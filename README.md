@@ -1,6 +1,11 @@
 # Lili's Proto Lab signage letters
 The lab shop front is decorated with brightly illuminated letters inspired by diverse topics from engineering/science/prototyping. Each letter is handmade by a member of the team and serves as a right-of passage.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="pictures/LPL jobshop aanzicht-02.png" alt="shop front" style="width: 100%;"/>
+  <figcaption>Figure: LPL shop front with current and future letters<figcaption>
+</div>
+
 ## Main features
 L - the first letter of our name, the letter that started it all. Lennart built this with our Shaper Origin router.
 P - Jacob created this puzzle-inspired letter. 3D printed from transparent PLA it lights up like no other.
