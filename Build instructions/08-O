@@ -30,10 +30,12 @@ The letter is designed in FreeCad.
   <img src="pictures/8-param.png" alt="Image 1" style="width: 40%;"/>
   <figcaption>Figure: Parametric sketch<figcaption>
 </div>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="pictures/8-design.png" alt="Image 1" style="width: 40%;"/>
   <figcaption>Figure: 3D model of O<figcaption>
 </div>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="pictures/8-cut_through.png" alt="Image 1" style="width: 40%;"/>
   <figcaption>Figure: Cut-through view of the O<figcaption>
