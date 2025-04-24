@@ -2,7 +2,7 @@
 The lab shop front is decorated with brightly illuminated letters inspired by diverse topics from engineering/science/prototyping. Each letter is handmade by a member of the team and serves as a right-of passage.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="../pictures/LPL jobshop aanzicht-02.png" alt="shop front" style="width: 100%;"/>
+  <img src="..tree/main/pictures/LPL jobshop aanzicht-02.png" alt="shop front" style="width: 100%;"/>
   <figcaption>Figure: LPL shop front with current and future letters<figcaption>
 </div>
 
